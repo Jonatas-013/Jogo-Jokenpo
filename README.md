@@ -5,3 +5,4 @@ Pedra, papel e tesoura, também chamado em algumas regiões do Brasil de jokenp�
 A intenção desse JOGO VIRTUAL era treinar os comandos básicos de Python de uma forma divertida, onde o usuário "aposta" com o computador quem irá vencer a disputa JOKENPO.
 
 Jogo criado em 25/04/2022
+# Jogo-Jokenpo
